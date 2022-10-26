@@ -3,6 +3,8 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/EurekaServer/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/CitizenService/CitizenService/pom.xml" />
         <option value="$PROJECT_DIR$/VaccinationCenter/VaccinationCenter/pom.xml" />
       </list>
     </option>

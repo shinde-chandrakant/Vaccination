@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CitizenService/CitizenService/CitizenService.iml" filepath="$PROJECT_DIR$/CitizenService/CitizenService/CitizenService.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Vaccination.iml" filepath="$PROJECT_DIR$/.idea/Vaccination.iml" />
       <module fileurl="file://$PROJECT_DIR$/VaccinationCenter/VaccinationCenter/VaccinationCenter.iml" filepath="$PROJECT_DIR$/VaccinationCenter/VaccinationCenter/VaccinationCenter.iml" />
     </modules>
   </component>
